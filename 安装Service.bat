@@ -1,0 +1,2 @@
+winsw install
+pause

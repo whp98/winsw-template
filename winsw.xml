@@ -1,0 +1,11 @@
+<!-- nginx-service.xml -->
+<service>
+    <id>nginx-my-51777</id>
+    <name>nginx-my-51777</name>
+    <description>nginx-my-51777</description>
+    <logpath>E:\DEV_ENV\nginx-1.21.6-blog\server-logs\</logpath>
+    <logmode>roll</logmode>
+    <depend></depend>
+    <executable>E:\DEV_ENV\nginx-1.21.6-blog\nginx.exe</executable>
+    <stopexecutable>E:\DEV_ENV\nginx-1.21.6-blog\nginx.exe -s stop</stopexecutable>
+</service>

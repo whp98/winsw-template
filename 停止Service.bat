@@ -1,0 +1,2 @@
+winsw stop
+pause
